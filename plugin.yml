@@ -1,0 +1,5 @@
+name: PlayerDataManager
+main: com.technerder.playerdatamanager.PluginMain
+author: Technerder
+version: 1.0
+commands: 
