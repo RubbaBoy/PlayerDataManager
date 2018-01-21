@@ -1,2 +1,2 @@
 # PlayerDataManager
-A Simple Example Of How Player Data Should Be Stored In A Flat-file Format.
+A simple example of how player data should be stored in a flat-file format.
